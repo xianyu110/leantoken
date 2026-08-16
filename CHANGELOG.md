@@ -1,6 +1,13 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+## [0.1.27] - 2026-08-16
+### Bug Fixes
+
+- **setup:** Reject duplicate JSONC keys before editing (#584) ([#584](https://github.com/morluto/leantoken/pull/584))
+- Correct read/outline/history tool description examples to match schema (#586) ([#586](https://github.com/morluto/leantoken/pull/586))
+- **setup:** Use text results for Codex registrations (#580) ([#580](https://github.com/morluto/leantoken/pull/580))
+
 ## [0.1.26] - 2026-08-13
 ### Bug Fixes
 
